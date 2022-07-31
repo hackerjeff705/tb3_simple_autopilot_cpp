@@ -94,7 +94,7 @@ vector<vector<float>> read_points(string fname) {
 
 void read_file() 
 {
-    string fname = "//home/jefffer705/sae_ws/ros_ws/src/burgerpilot_semiremote/src/waypoints/wp_file.csv";
+    string fname = "/home/{REPLACE_WITH_YOUR_WORKSPACE_DIRECTORY}/src/burgerpilot_semiremote/src/waypoints/wp_file.csv";
  
     fstream file (fname, ios::in);
 
