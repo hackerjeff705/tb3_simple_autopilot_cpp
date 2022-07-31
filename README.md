@@ -6,7 +6,7 @@ A simple autonomous robot in C/C++ that implements the following using the turtl
 
 MobileNetV1 performance is approx 5 fps.
 
-![Flowchart of autopilot structure]( https://github.com/hackerjeff705/tb3_simple_autopilot_cpp "Robot Flow Structure")
+![Flowchart of autopilot structure]( https://github.com/hackerjeff705/tb3_simple_autopilot_cpp/blob/main/burger_autonomous_stack.jpeg "Robot Flow Structure")
 
 Feel free to install or copy the code for your own projects!
 
