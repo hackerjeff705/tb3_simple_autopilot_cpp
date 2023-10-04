@@ -48,7 +48,13 @@ The desktop computer is in charge of the robot's control and navigation. It inte
 - The Pure Pursuit controller enables the robot to navigate smoothly and accurately along predefined waypoints.
 - The AEB system enhances safety by detecting obstacles and taking appropriate actions.
 
+## Installation
 Feel free to install or copy the code for your own projects!
+
+* Create a package for your computer and raspberry pi4b.
+* Download/clone the project
+* Move the respective folders to their respective directories
+* Build and run!
 
 ## Usage
 To use this project:
@@ -63,9 +69,3 @@ This project relies on the following dependencies:
 - OpenCV
 - TensorFlow Lite
 - TurtleBot3 packages
-
-## Installation
-* Create a package for your computer and raspberry pi4b.
-* Download/clone the project
-* Move the respective folders to their respective directories
-* Build and run!
